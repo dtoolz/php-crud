@@ -1,0 +1,15 @@
+{
+    "name": "lenovo/03_good",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "dtoolz",
+            "email": "donaldaudriel@gmail.com"
+        }
+    ],
+    "require": {}
+}
